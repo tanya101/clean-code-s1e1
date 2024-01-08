@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.header .header-link {
+.header .header__link {
   font-family: fantasy, cursive;
 }
 
@@ -39,7 +39,7 @@ body {
   flex-grow: 1
 }
 
-.add-task-wrapper {
+.add-task__wrapper {
   display: flex;
 }
 
